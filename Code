@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Isaac Newton</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #005495;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+
+        header h1 {
+            text-align: center;
+            margin: 0;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+
+        h2 {
+            color: #005495;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        blockquote {
+            font-style: italic;
+            border-left: 4px solid #005495;
+            padding-left: 8px;
+            margin: 10px 0;
+        }
+
+        img {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+        footer {
+            background: #0779e4;
+            color: #f4f4f4;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tribute to Sir Isaac Newton</h1>
+    </header>
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Sir Isaac Newton, born on January 4, 1643, in Woolsthorpe, England, stands as a colossal figure in the annals of science. His contributions transcend the boundaries of physics, extending into mathematics, astronomy, and natural philosophy, marking him as a polymath of the 17th century. Newton's intellectual curiosity and rigorous application of the scientific method led to profound discoveries that have fundamentally shaped our understanding of the physical world.
+
+            Newton was not merely a scientist but a pioneer who navigated the depths of knowledge with an unparalleled fervor. His early life, marked by academic excellence, foreshadowed the monumental contributions he would make to science. Educated at Trinity College, Cambridge, Newton's interests initially spanned a wide range of disciplines, including mathematics, optics, physics, and astronomy. It was during his time at Cambridge that Newton developed the method of infinitesimal calculus, although its publication would come much later, simultaneously but independently with Leibniz, leading to a notorious dispute over its invention.</p>
+    </section>
+    <section id="achievements">
+        <h2>Achievements</h2>
+         Laws of Motion and Universal Gravitation
+Newton's magnum opus, "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), commonly known as the Principia, published in 1687, laid the foundations of classical mechanics. Within its pages, Newton articulated the three laws of motion, principles so fundamental that they remain cornerstones of physics today. His first law introduced the concept of inertia; his second law defined the relationship between force, mass, and acceleration; and his third law established the principle of action and reaction. Together, these laws describe the motion of objects and set the stage for nearly every mechanical technology developed since.
+
+In the same work, Newton formulated the law of universal gravitation, positing that every mass exerts an attractive force on every other mass. This principle not only unified terrestrial and celestial mechanics but also provided the explanation for Kepler's laws of planetary motion. Newton's insights into gravity paved the way for later developments in physics, including Einstein's theory of general relativity.
+
+Optics
+Newton also made groundbreaking contributions to the field of optics. His experiments with prisms led to the discovery that white light is composed of a spectrum of colors, which can be separated and recombined. This work, detailed in his book "Opticks," challenged the prevailing theories of light and color and introduced the particle theory of light.
+
+Calculus
+Alongside his achievements in physics, Newton's development of infinitesimal calculus (independently of Gottfried Wilhelm Leibniz) provided a powerful mathematical tool for describing change and motion. This innovation not only revolutionized mathematics but also provided the necessary framework for advancing physics and engineering.
+
+Sir Isaac Newton's legacy is a testament to the power of human curiosity and intellect. His work laid the groundwork for centuries of scientific inquiry, influencing countless fields and changing our understanding of the world. Newton's achievements underscore the profound impact one individual can have on the trajectory of human knowledge and progress.
+
+
+
+
+
+
+        </ul>
+    </section>
+    <section id="quotes">
+        <h2>Inspirational Quotes</h2>
+        <blockquote>“If I have seen further it is by standing on the shoulders of Giants.”</blockquote>
+        <blockquote>“What we know is a drop, what we don't know is an ocean.”</blockquote>
+    </section>
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <img src="C:\Users\user\Desktop\Isaac\newton1.jpg" alt="Isaac Newton">
+        <img src="C:\Users\user\Desktop\Isaac\newton1.jpg" alt="Newton's Principia">
+    </section>
+    <footer>
+        <h2>By IOK</h2>
+       
+    </footer>
+</body>
+</html>
